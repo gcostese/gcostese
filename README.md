@@ -8,10 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcostese&layout=compact)](https://github.com/gcostese)
 
 
-***[a
-href=”https://www.linkedin.com/in/gcosteseque/"](a%0Ahref=%E2%80%9Dhttps://www.linkedin.com/in/yushi95/%22)<img align=”left”
-src=”https://raw.githubusercontent.com/gcostese/gcostese/main/images/linkedin.png"
-alt=”GCosteseque | LinkedIn” width=”21px”/></a>***
+<a href=”https://www.linkedin.com/in/gcosteseque/"><img align=”left” src=”https://raw.githubusercontent.com/gcostese/gcostese/main/images/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 
 
