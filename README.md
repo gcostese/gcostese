@@ -22,31 +22,4 @@ I am a French traffic engineer and applied maths researcher. I am here to learn 
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/gcosteseque/"><img align="left" src="https://raw.githubusercontent.com/gcostese/gcostese/main/images/linkedin.png" alt="icon | LinkedIn"  width=”10px”/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**gcostese/gcostese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LinkedIn](https://www.linkedin.com/in/gcosteseque/)
