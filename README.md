@@ -1,8 +1,7 @@
 ### Hi there, I'm [Guillaume](https://sites.google.com/view/gcosteseque) 👋
 
-I am a French traffic engineer and applied maths researcher.
+I am a French traffic engineer and applied maths researcher. I am here to learn stuff!
 
-I am here to learn stuff!
 
 ### Technical skills
 
@@ -23,7 +22,7 @@ I am here to learn stuff!
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/gcosteseque/"><img align="left" src="https://raw.githubusercontent.com/gcostese/gcostese/main/images/linkedin.png" alt="icon | LinkedIn"  width=”21px”/>
+<a href="https://www.linkedin.com/in/gcosteseque/"><img align="left" src="https://raw.githubusercontent.com/gcostese/gcostese/main/images/linkedin.png" alt="icon | LinkedIn"  width=”10px”/>
 
 
 
